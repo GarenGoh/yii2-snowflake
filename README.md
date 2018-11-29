@@ -32,5 +32,5 @@ Yii::$app->snowflake->generateID(1,3);
 ```
 
 ## 相关文章
-[php实现雪花算法（ID递增)](http://wqiang.net/article/view?id=23)
-[Twitter Snowflake算法详解](https://blog.csdn.net/yangding_/article/details/52768906)
+- [php实现雪花算法（ID递增)](http://wqiang.net/article/view?id=23)
+- [Twitter Snowflake算法详解](https://blog.csdn.net/yangding_/article/details/52768906)
