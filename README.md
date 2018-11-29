@@ -3,7 +3,7 @@ SnowFlake for yii framework.
 
 ## Installation
 
-`composer require --prefer-dist "jerryhsia/yii2-snowflake" "dev-master"`
+`composer require --prefer-dist "garengoh/yii2-snowflake" "dev-master"`
 
 ## Usage
 
