@@ -1,0 +1,26 @@
+{
+    "name": "garengoh/snowflake",
+    "description": "SnowFlake for yii framework.",
+    "keywords": [ "SnowFlake", "yii2" ],
+    "type": "library",
+    "license": "Apache-2.0",
+    "homepage": "https://github.com/GarenGoh/yii2-snowflake.git",
+    "authors": [
+        {
+            "name": "GarenGoh",
+            "email": "garen.goh@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.0"
+    },
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "garengoh\\snowflake\\": ""
+        }
+    }
+}
